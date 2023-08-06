@@ -1,6 +1,6 @@
 # Preparing presets for users
 
-Run the followinf command to prepare new presets for release to users:
+Run the following command to prepare new presets for release to users:
 
 ```
 activate.ps1
